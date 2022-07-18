@@ -1,5 +1,14 @@
 # Martins-page
 
+## Go Live!
+For the beginning you'll probably do not need to bother finding a domain, buying it, looking for a hosting provider (strongly recommend netlify though) and so on.
+You can just use your Github account to launch your project and have it live on the Web!
+Follow those [instructions provided by Github](https://pages.github.com/) and you should have your site online in a few minutes.
+
+Additional info when following the Github Pages introduction (meaning the link above):
+- Select "Project site"
+- Select "Start from scratch"
+
 ## To Do List
 - from now on you can document your progress here
 - or write down your To Do's
