@@ -32,8 +32,9 @@ Additional info when following the Github Pages introduction (meaning the link a
 
 ## To Do List
 
-1. add checklist items here.
+add checklist items here.
 
+- Make links on web site work
 - Center the sections
 - Add some styling, to make it more appealing to the eye.
 - Make the footer purposeful
