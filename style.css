@@ -1,0 +1,19 @@
+/* Styles for Martins Page */
+/* nav {
+  text-align: center;
+} */
+
+.container {
+  display: table;
+  margin: 0 auto;
+}
+
+ul#horizontal-list {
+  min-width: 1rem;
+  list-style: none;
+  padding-top: 1rem;
+}
+
+ul#horizontal-list li {
+  display: inline;
+}
